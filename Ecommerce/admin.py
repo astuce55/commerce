@@ -8,6 +8,5 @@ admin.site.register(commande)
 admin.site.register(Facture)
 admin.site.register(Details)
 
-# test
 
 # Register your models here.
